@@ -1,5 +1,5 @@
 
-// Tutorial adapted from the MIRLC2 help and live demoed by Sam Roig on 9 December 2020
+// Tutorial adapted from the MIRLC2 help and live demoed by Sam Roig on 11 January 2021
 
 // MIRLC2
 //
@@ -27,7 +27,8 @@ a.tag("prayer");
 // Playback controls
 a.sequence // sequential playback, one sample in the bucket after another
 a.parallel // parallel playback, all at the same time
-a.sequence
+// workaround: always go back to parallel to avoid an existing bug with sequence and trying certain operations or downloading new soudns
+
 a.stop
 a.play         // args: |rate=1| (can be negative)
 a.play(1)    // args: |rate=1| (can be negative)

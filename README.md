@@ -60,10 +60,11 @@ An introduction to machine learning in live coding and task 1: Train an agent to
 An introduction to machine learning in live coding and task 2: Explore an agent that reacts to the live coder inputs when querying to Freesound.org
 
 - Recap (all) - 10'
+- Guest speaker: Iris Saladino - 30'
 - Project presentation 3rd part: task 2 (Anna) - 15'
-- Tutorial FluidMLPRegressor (Anna) - 10'
-- Breakout rooms: Reflections on machine learning tasks and live coding (All) - 20'
+- Tutorial FluidMLPRegressor (Anna) - 5'
 - Comfort break - 10'
-- Planning for videos / performance with Phonos / Toplap Barcelona / L'Ull Cec (plenary / breakout rooms) - 50' 
+- Breakout rooms: Reflections on machine learning tasks and live coding (All) - 20'
+- Planning for videos / performance with Phonos / Toplap Barcelona / L'Ull Cec (plenary / breakout rooms) - 20' 
 - Final feedback and closing (all) - 10'
 

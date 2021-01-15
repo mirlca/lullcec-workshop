@@ -49,6 +49,7 @@ FluidMLPClassifier // Command + D to open the Help File
 
 //get labels from server
 ~predictedlabels.dump(action:{|d| ~labelsdict = d["data"]});
+
 //Visualise: we're hoping to see colours neatly mapped to quandrants...
 (
 c = Dictionary();

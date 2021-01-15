@@ -54,3 +54,16 @@ An introduction to machine learning in live coding and task 1: Train an agent to
 - Hands-on MIRLCa training (breakout rooms) - 15' 
 - Plenary and closing (all) - 10'
 
+
+## Day 3 - Friday 15th January 2021
+
+An introduction to machine learning in live coding and task 2: Explore an agent that reacts to the live coder inputs when querying to Freesound.org
+
+- Recap (all) - 10'
+- Project presentation 3rd part: task 2 (Anna) - 15'
+- Tutorial FluidMLPRegressor (Anna) - 10'
+- Breakout rooms: Reflections on machine learning tasks and live coding (All) - 20'
+- Comfort break - 10'
+- Planning for videos / performance with Phonos / Toplap Barcelona / L'Ull Cec (plenary / breakout rooms) - 50' 
+- Final feedback and closing (all) - 10'
+
